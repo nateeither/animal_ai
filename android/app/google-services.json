@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "120349079877",
+    "firebase_url": "https://kolugn-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "kolugn",
+    "storage_bucket": "kolugn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120349079877:android:083c2cfe9eb38350a0662c",
+        "android_client_info": {
+          "package_name": "com.animalsai.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120349079877-u5kc93ju7luggrsaif1a8bbqmgj9nlkf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.animalsai.app",
+            "certificate_hash": "4d128a410378421f710a10edad07c7ef4403a838"
+          }
+        },
+        {
+          "client_id": "120349079877-fd7rfrr0up8lc5oirtcpf6bm475n1b3c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNQNIE66kN1RekNIj0d123QKVbf_PI-6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120349079877-fd7rfrr0up8lc5oirtcpf6bm475n1b3c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

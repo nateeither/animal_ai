@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 25 25" style="enable-background:new 0 0 25 25;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_00000021103243985203316760000008492672904652809892_);}
+	.st1{clip-path:url(#SVGID_00000088841456413893133820000001515643610033143699_);}
+	.st2{fill:#FFFFFF;}
+	.st3{fill:#BD0034;}
+	.st4{fill:#1A237B;}
+</style>
+<g>
+	<defs>
+		<path id="SVGID_1_" d="M12.5,0L12.5,0C19.4,0,25,5.6,25,12.5l0,0C25,19.4,19.4,25,12.5,25l0,0C5.6,25,0,19.4,0,12.5l0,0
+			C0,5.6,5.6,0,12.5,0z"/>
+	</defs>
+	<clipPath id="SVGID_00000005262836880496652120000018328050312107310469_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<g style="clip-path:url(#SVGID_00000005262836880496652120000018328050312107310469_);">
+		<g>
+			<defs>
+				<rect id="SVGID_00000037688508178003613420000012695789497012087734_" x="-8.7" width="42.4" height="25"/>
+			</defs>
+			<clipPath id="SVGID_00000163063738782907008530000007009601829923163549_">
+				<use xlink:href="#SVGID_00000037688508178003613420000012695789497012087734_"  style="overflow:visible;"/>
+			</clipPath>
+			<g style="clip-path:url(#SVGID_00000163063738782907008530000007009601829923163549_);">
+				<path class="st2" d="M33.7,0H-8.7v25h42.4V0z"/>
+				<path class="st3" d="M19.7,9l14-7.9V0h-1l-16,9H19.7z"/>
+				<path class="st3" d="M19,16.5l14.7,8.3v-1.7L22,16.5H19z"/>
+				<path class="st3" d="M-8.7,1.9L3.9,9h2.9L-8.7,0.2V1.9z"/>
+				<path class="st3" d="M6.1,16.5l-14.8,8.4V25H-6l15.1-8.5H6.1z"/>
+				<path class="st4" d="M30.8,0H16v8.4L30.8,0z"/>
+				<path class="st4" d="M9.4,0H-5.4L9.4,8.4V0z"/>
+				<path class="st4" d="M33.7,9V3.3L23.6,9H33.7z"/>
+				<path class="st4" d="M33.7,22.1v-5.7H23.6L33.7,22.1z"/>
+				<path class="st4" d="M-4.5,25H9.4v-7.9L-4.5,25z"/>
+				<path class="st4" d="M16,25h14l-14-7.9V25z"/>
+				<path class="st4" d="M-8.7,16.5v5.9l10.4-5.9H-8.7z"/>
+				<path class="st4" d="M-8.7,9H1.7L-8.7,3.1V9z"/>
+				<path class="st3" d="M10.7,0v10.5H-8.7V15h19.4v10h3.9V15h19.1v-4.5H14.6V0H10.7z"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
